@@ -1,5 +1,4 @@
-import streamlit as st
-from helper_function.utility import check_password  
+import streamlit as st 
 
 
 st.title("Welcome!")
